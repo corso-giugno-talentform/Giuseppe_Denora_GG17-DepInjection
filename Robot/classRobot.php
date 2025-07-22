@@ -1,5 +1,5 @@
 <?php
-//esercito tesla robot da implementare in indexTesla.php
+//esercito tesla robot 
 abstract class ArtiSuperiori
 {
 
