@@ -58,7 +58,7 @@ public function checkPremium(){
 
 $computers=[
     new Computer (new Ram8GB(), new Nvidia(), new Intel()),
-    new Computer (new Ram32GB(), new ATI(), new AMD()),
+    new Computer (new Ram32GB(), new Ati(), new Amd()),
     new Computer (new Ram64GB(), new Integrata(), new Intel()),
     new Computer (new Ram64GB(), new Integrata(), new Apple()),
 ];
