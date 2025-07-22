@@ -55,7 +55,7 @@ class Nvidia extends SchedaVideo{
         return " Nvidia 5678 ";
     }
 }
-class ATI extends SchedaVideo{
+class Ati extends SchedaVideo{
     public function details(){
         return " ATI 6789 ";
     }
@@ -79,7 +79,7 @@ class Intel extends Processore{
         return " processore Intel";
     }
 }
-class AMD extends Processore{
+class Amd extends Processore{
     public function details(){
         return" processore AMD";
     }
